@@ -1,5 +1,8 @@
 # Example Output
 
+[![Alt text](https://img.youtube.com/vi/OzyrK5L9_C4/0.jpg)](https://www.youtube.com/watch?v=OzyrK5L9_C4)
+
+
 Check out the videos directory for an example video before and after being captioned by the model.
 
 # Darknet-cpp
