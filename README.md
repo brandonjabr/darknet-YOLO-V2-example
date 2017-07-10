@@ -1,4 +1,6 @@
-![Darknet Logo](https://github.com/prabindh/darknet/blob/master/arapaho/darknetcpplogo.png)
+# Example Output
+
+Check out the videos directory for an example video before and after being captioned by the model.
 
 # Darknet-cpp
 
