@@ -1,0 +1,6 @@
+classes= 20
+train  = /home/brandonjabr/git/darknet/train.txt
+valid  = /home/brandonjabr/git/darknet/2007_test.txt
+names = data/voc.names
+backup = backup
+
